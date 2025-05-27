@@ -133,15 +133,14 @@ Artego 서비스 제작 배경
 ## [프로젝트 설계](#목차)
 
 ### 시스템 아키텍쳐
-
-<img width="100%" src="./resources/img/아키텍쳐.png">
+<p style="color: gray;">이미지 클릭 시 원본 사진의 경로로 이동합니다.</p>
+<img width="100%" src="./resources/img/architecture-diagram.png">
 
 <br/>
 
 ### ERD
-
+<p style="color: gray;">이미지 클릭 시 원본 사진의 경로로 이동합니다.</p>
 <img width="100%" src="./resources/img/erd.png">
-
 
 
 <br/>
