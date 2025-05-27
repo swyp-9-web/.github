@@ -2,7 +2,7 @@
   <h1 style="display: flex; align-items: center; justify-content: center; width: 100%;">
      신인 작가들을 위한 커뮤니티, Artego
 
-  </h1><img src="https://github.com/user-attachments/assets/c18ef285-ab41-42c8-ac9b-7ba108aac91a"/>
+  </h1><img src="./resources/img/banner.png"/>
 <!--   <h3>소개란</h3> -->
   <h3>신인 작가들을 위한 커뮤니티, Artego</h3>
   <p>2025.04.06 ~ 2025.05.31</p>  
@@ -134,13 +134,13 @@ Artego 서비스 제작 배경
 
 ### 시스템 아키텍쳐
 
-<img width="600px" src="./resources/img/아키텍쳐.png">
+<img width="100%" src="./resources/img/아키텍쳐.png">
 
 <br/>
 
 ### ERD
 
-<img width="600px" src="./resources/img/ERD.png">
+<img width="100%" src="./resources/img/erd.png">
 
 
 
