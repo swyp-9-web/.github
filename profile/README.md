@@ -11,7 +11,7 @@
   &nbsp; | &nbsp; 
   <a href="https://artego.swygbro.com">배포 사이트</a>
   &nbsp; | &nbsp; 
-   <a href="">발표 PPT</a>
+   <a href="./resources/pdf/ppt.pdf">발표 PPT</a>
 </div>
 
 
