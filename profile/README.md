@@ -68,57 +68,43 @@
 
 ## [서비스 소개](#목차)
 
-### 1️⃣ 메인 페이지
-
-> 등록된 작품들을 카테고리 필터를 통해 필터링하여 확인하거나, 상단 네비바를 활용해 알림, 팔로우 등을 확인할 수 있습니다.
-
-|                          **Lading Page**                           |
-| :----------------------------------------------------------------: |
-| <img src="./resources/img/web-page/landing-page.png" height="400"> |
-
-|                          **Login Popup**                          |                       **Artist Apply Popup**                       |
-| :---------------------------------------------------------------: | :----------------------------------------------------------------: |
-| <img src="./resources/img/web-page/login-popup.png" height="400"> | <img src="./resources/img/web-page/artist-apply.png" height="400"> |
-
-<br>
-
-### 2️⃣ 검색 및 카테고리 페이지
+### 1️⃣ 검색 및 카테고리 페이지
 
 > 상단 네비바를 통해 검색한 작품 결과를 확인하거나, 카테고리별 작품 목록을 확인할 수 있습니다.
 
 |                          **Search Page**                          |                          **Category Page**                          |
 | :---------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| <img src="./resources/img/web-page/search-page.png" height="400"> | <img src="./resources/img/web-page/category-page.png" height="400"> |
+| <img src="./resources/img/web-page-gif/search-page.gif" width="100%"> | <img src="./resources/img/web-page-gif/category-page.gif" width="100%"> |
 
 <br>
 
-### 3️⃣ 작품 등록 및 수정 페이지
+### 2️⃣ 작품 등록 및 수정 페이지
 
 > 작가로 인증받은 유저에 한정하여 본인의 작품을 등록할 수 있습니다.
 
-|                          **Item Register Page**                          |
+|                          **Item Posting Page**                          |
 | :----------------------------------------------------------------------: |
-| <img src="./resources/img/web-page/item-register-page.png" height="400"> |
+| <img src="./resources/img/web-page-gif/item-posting.gif" width="100%"> |
 
 <br>
 
-### 4️⃣ 마이 페이지
+### 3️⃣ 마이 페이지
 
-> 내 회원 정보를 수정하고, 내가 작성한 댓글을 확인할 수 있습니다.
+> 내가 작성한 댓글을 확인하고 내 회원 정보를 수정할 수 있습니다.
 
-|                        **My Page (user)**                         |                        **My Page (artist)**                         |
-| :---------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| <img src="./resources/img/web-page/mypage-user.png" height="400"> | <img src="./resources/img/web-page/mypage-artist.png" height="400"> |
+|                        **My Page**                         |
+| :---------------------------------------------------------------: | 
+| <img src="./resources/img/web-page-gif/mypage.gif" width="100%"> |
 
 <br>
 
-### 5️⃣ 스크랩 페이지
+### 4️⃣ 스크랩 페이지
 
 > 로그인 유저는 스크랩 버튼을 눌러 저장해 둔 작품을 확인할 수 있습니다.
 
 |                          **Scrap Page**                          |
 | :--------------------------------------------------------------: |
-| <img src="./resources/img/web-page/scrap-page.png" height="400"> |
+| <img src="./resources/img/web-page-gif/scrap-page.gif" width="100%"> |
 
 <br>
 
@@ -126,9 +112,9 @@
 
 > 작가의 작품과 작가의 작품들에 대한 전체적인 반응을 확인하고, 작가의 경우 본인 피드 페이지의 프로필을 관리할 수 있습니다.
 
-|                          **Artist Page**                          |
+|                          **Artist's Feed Page**                          |
 | :---------------------------------------------------------------: |
-| <img src="./resources/img/web-page/artist-page.png" height="400"> |
+| <img src="./resources/img/web-page-gif/artists-feed-page.gif" width="100%"> |
 
 <br>
 
@@ -136,9 +122,9 @@
 
 > 작품에 대한 상세 내용을 확인하고 작가와 유저가 댓글을 통해 소통할 수 있습니다.
 
-|                         **Item Detail**                         |                           **Comment Section**                           |
-| :-------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| <img src="./resources/img/web-page/item-page.png" height="400"> | <img src="./resources/img/web-page/item-page-comment.png" height="400"> |
+|                         **Item Detail Page**                         |                           
+|:---------------------------------------------------------------------: |
+| <img src="./resources/img/web-page-gif/item-detail-page.gif" width="100%"> |
 
 <br>
 
@@ -148,7 +134,29 @@
 
 |                          **Follow Page**                          |
 | :---------------------------------------------------------------: |
-| <img src="./resources/img/web-page/follow-page.png" height="400"> |
+| <img src="./resources/img/web-page-gif/follow-page.gif" width="100%"> |
+
+<br>
+
+### 8️⃣ 알림
+
+> **댓글**: 내 게시글에 달린 댓글 혹은 대댓글을 확인할 수 있습니다.  
+> **작가 신청**: 작가 신청 결과(승인/반려)를 확인할 수 있습니다.
+
+|                          **Commnets**                          |                          **Registering as an Artist**                          |
+| :---------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="./resources/img/web-page-gif/comments-notification.gif" width="100%"> | <img src="./resources/img/web-page-gif/register-artist-notification.gif" width="100%"> |
+
+<br>
+
+### 9️⃣ 작가 신청
+
+> **작가 신청**: 일반 유저가 작가로 전환하기 위해서는 신청서를 제출해야 합니다.  
+> **작가 신청 관리**: 관리자는 신청서를 확인하고 작가 신청을 승인/반려할 수 있습니다. 
+
+|                          **Registering as an Artist(User)**                          |                          **Admin Page**                          |
+| :---------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| <img src="./resources/img/web-page-gif/register-artist.gif" width="100%"> | <img src="./resources/img/web-page-gif/register-artist-approve.gif" width="100%"> |
 
 <br>
 <br>
